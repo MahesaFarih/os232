@@ -2,3 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 60 L10 Assignment#00
+ZCZC W01 240 L11 Assignment#01 Took an unnecessary amount of time because I accidentally installed the GUI interface
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related the usual weekly class we all know
+ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 20 L04 GitHub Pages related
+ZCZC W01 30 L62 Reinstall Virtual Debian Guest
+ZCZC W01 10 L41 TXT/mylog.txt related

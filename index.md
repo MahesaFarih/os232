@@ -1,3 +1,5 @@
 # OS232
 
-|| [HOME](https://MahesaFarih.github.io/os232/) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/MahesaFarih/os232/) ||
+|| [HOME](SandBox/MahesaFarih.tar.xz) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/MahesaFarih/os232/) ||
+
+#### REV02: Mon 11 Sep 2023 19:37
