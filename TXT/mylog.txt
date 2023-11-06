@@ -19,4 +19,6 @@ ZCZC W05 120 L15 Assignment#05
 ZCZC W05 18 L03 Github Related
 ZCZC W05 10 L41 TXT/mylog.txt edit
 ZCZC W05 120 L02 Weekly class
-
+ZCZC W06 120 L16 Assignment#06
+ZCZC W06 18 L03 Github Related
+ZCZC W06 10 L41 TXT/mylog.txt edit
